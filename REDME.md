@@ -1,0 +1,2 @@
+# Site Sobre a Historia do android
+ Este site é uma réplica de um histórico do Android, criado utilizando HTML e CSS. Ele apresenta de forma simples e visualmente agradável a evolução do sistema operacional Android ao longo dos anos.
