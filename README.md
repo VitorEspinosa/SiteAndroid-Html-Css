@@ -1,5 +1,11 @@
 # Site Sobre a Historia do android
  Este site é uma réplica de um histórico do Android, criado utilizando HTML e CSS. Ele apresenta de forma simples e visualmente agradável a evolução do sistema operacional Android ao longo dos anos.
+
+
+https://github.com/user-attachments/assets/5216f1d9-45f3-46f5-8b99-2708ee8f9f0b
+
+
+ 
  <!-- # Projeto VirtualR
 
 A VirtualR é uma plataforma inovadora desenvolvida com React e Tailwind CSS, criada para ser a principal aliada de desenvolvedores na construção de experiências imersivas em realidade virtual (VR). Este projeto foi pensado para unir praticidade, criatividade e tecnologia, oferecendo um ambiente intuitivo onde ideias podem se transformar em aplicativos de VR incríveis.
