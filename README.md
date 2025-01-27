@@ -28,13 +28,7 @@ Se você já usou um smartphone Android, provavelmente já se deparou com o famo
 https://github.com/VitorEspinosa/SiteAndroid-Html-Css.git
 ```
 
-2. Navegue até o diretório do projeto:
-
-```bash
-  npm install
-```
-
-3. Rodar o projeto
+2. Rodar o projeto
 
 ```bash
   start (nome da pagina que deseja abrir) 
