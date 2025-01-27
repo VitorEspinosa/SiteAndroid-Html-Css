@@ -6,11 +6,9 @@ https://github.com/user-attachments/assets/5216f1d9-45f3-46f5-8b99-2708ee8f9f0b
 
 
  
- <!-- # Projeto VirtualR
+ # Projeto História do Android
 
-A VirtualR é uma plataforma inovadora desenvolvida com React e Tailwind CSS, criada para ser a principal aliada de desenvolvedores na construção de experiências imersivas em realidade virtual (VR). Este projeto foi pensado para unir praticidade, criatividade e tecnologia, oferecendo um ambiente intuitivo onde ideias podem se transformar em aplicativos de VR incríveis.
-Com a VirtualR, você tem acesso a um conjunto robusto de ferramentas projetadas para simplificar o processo de criação, permitindo que desenvolvedores de todos os níveis deem vida às suas ideias com facilidade. Nossa plataforma promove a personalização e a criatividade, garantindo que cada experiência seja única e envolvente.
-
+Se você já usou um smartphone Android, provavelmente já se deparou com o famoso mascote verde – o Bugdroid. Mas você sabia que a história desse simpático robô tem um significado e uma trajetória fascinante por trás? Neste site, vamos contar tudo sobre como o mascote do Android surgiu, sua criação e o impacto que ele tem até hoje.
 
 
 https://github.com/user-attachments/assets/05fe1e7a-91a5-4acf-a380-d056ede48272
@@ -19,19 +17,11 @@ https://github.com/user-attachments/assets/05fe1e7a-91a5-4acf-a380-d056ede48272
 
 ### Tecnologias Utilizadas
 
-- React: ^17
-- Tailwind: ^3.4.17
-- vite: ^6.0.5
+- Html ^5
+- Css ^3
 
 
-### 📦 Bibliotecas
-Para icons utilizei está biblioteca 
-
-```
-npm install lucide-react
-```
-
-### Como Executar o Projeto -->
+### Como Executar o Projeto-->
 
 1. Clone o repositório:
 
