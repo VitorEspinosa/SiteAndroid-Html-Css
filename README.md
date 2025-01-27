@@ -11,7 +11,6 @@ https://github.com/user-attachments/assets/5216f1d9-45f3-46f5-8b99-2708ee8f9f0b
 Se você já usou um smartphone Android, provavelmente já se deparou com o famoso mascote verde – o Bugdroid. Mas você sabia que a história desse simpático robô tem um significado e uma trajetória fascinante por trás? Neste site, vamos contar tudo sobre como o mascote do Android surgiu, sua criação e o impacto que ele tem até hoje.
 
 
-https://github.com/user-attachments/assets/05fe1e7a-91a5-4acf-a380-d056ede48272
 
 
 
